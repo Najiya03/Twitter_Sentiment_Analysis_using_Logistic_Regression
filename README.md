@@ -38,7 +38,7 @@ It is used here for educational and research purposes only.
 
 ---
 
-## ⚙️ Workflow
+##  Workflow
 1. Import libraries and dataset  
 2. Clean and preprocess tweets (remove noise, punctuation, stopwords)  
 3. Text vectorization (here, TF-IDF)  
